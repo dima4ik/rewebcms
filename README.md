@@ -1,2 +1,2 @@
 # rewebcms
-simple
+dim
